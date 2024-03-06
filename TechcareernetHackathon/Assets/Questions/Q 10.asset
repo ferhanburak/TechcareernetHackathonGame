@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7162507073fb34844a96eecfa0afad30, type: 3}
+  m_Name: Q 10
+  m_EditorClassIdentifier: 
+  question: "Etik olmayan ama sizi ileriye ta\u015F\u0131yacak durumlarda ne yapard\u0131n\u0131z?"
+  answers:
+  - "Etik ilkelerime uygun hareket ederim ve uzun vadeli s\xFCrd\xFCr\xFClebilir
+    ba\u015Far\u0131y\u0131 hedeflerim."
+  - "Etik olmayan y\xF6ntemleri reddeder ve uzun vadeli ba\u015Far\u0131 i\xE7in
+    s\xFCrd\xFCr\xFClebilir \xE7\xF6z\xFCmler arar\u0131m."
+  - "Yarat\u0131c\u0131 ve etik \xE7\xF6z\xFCmler \xFCreterek ileriye ta\u015F\u0131nabilecek
+    alternatif yollar bulmaya \xE7al\u0131\u015F\u0131r\u0131m."
+  - Pas
